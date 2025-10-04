@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "amount": 10.0,
+        "date": "2025-10-04",
+        "note": "Blinkit Order",
+        "category": "Food"
+    },
+    {
+        "id": 2,
+        "amount": 505.0,
+        "date": "2025-10-05",
+        "note": "Asus Laptop",
+        "category": "IT"
+    },
+    {
+        "id": 3,
+        "amount": 60.0,
+        "date": "2025-10-02",
+        "note": "Expensive",
+        "category": "Travel"
+    }
+]
